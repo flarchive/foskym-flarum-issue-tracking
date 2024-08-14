@@ -1,0 +1,61 @@
+foskym-issue-tracking:
+  admin:
+    provider_heading: 平台提供者
+    enable_comment_sync_label: 将 Flarum 中的评论同步至问题跟踪平台
+    enable_create_issue_label: 允许用户在 Flarum 中创建问题
+    enable_auto_import_label: 阅读问题列表时自动将平台的问题导入到 Flarum
+    enable_import_by_username_label: 通过用户名导入问题
+    enable_import_by_display_name_label: 通过显示名（昵称）导入问题
+    default_import_by_email_help: 默认情况下，问题通过邮箱导入。您可以启用通过用户名或显示名导入问题。手动导入设置与此二项同步。如果用户不存在，问题将由手动操作者或默认管理员导入。
+
+    action:
+      heading: 操作
+      test_connection_button: 测试连接
+      test_connection_success: 连接成功
+      import_issues_button: 导入问题
+      import_issues_success: 问题导入成功
+      import_issues_confirmation: 确定要导入所有问题吗？
+      delete_imported_issues_button: 删除导入的问题
+      delete_imported_issues_success: 导入的问题删除成功
+      delete_imported_issues_confirmation: 确定要删除所有导入的问题吗？
+      delete_all_issues_button: 删除所有问题
+      delete_all_issues_success: 所有问题删除成功
+      delete_all_issues_confirmation: 确定要删除所有问题吗？
+
+  forum:
+    title: 问题跟踪
+    
+    header:
+      back_to_issues_tooltip: 返回问题列表
+
+    last_updated: 最后更新于 {time}
+    issue_opened_by: 问题由 {username} 创建于 {time}
+    progress: 进度
+    new_issue: 新建问题
+    cannot_create_issue: 只读
+
+    discussion:
+      issue_link: 查看
+
+    composer:
+      title: 创建新问题
+      title_placeholder: 标题
+      body_placeholder: 描述
+      submit_button: 提交
+      discard_confirmation: 确定要放弃提交这个问题吗？
+
+    sort:
+      latest_button: 最后回复
+      oldest_button: 最旧
+      newest_button: 最新
+
+    hero:
+      last_updated: => foskym-issue-tracking.forum.last_updated
+      unresolved: 未解决
+      resolved: 已解决
+      tasks_done: '{number} / {total}'
+      complete: '{progress} 完成'
+
+    provider:
+      error:
+        title: 提供者错误
