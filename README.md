@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of foskym/flarum-issue-tracking.** Not for installation: use [Packagist](https://packagist.org/packages/foskym/flarum-issue-tracking) or the [upstream repository](https://github.com/FoskyM/flarum-issue-tracking).
 
-**0** versions archived · Latest: [`v0.4.4`](https://github.com/flarchive/foskym-flarum-issue-tracking/tree/archive/v0.4.4) · License: `MIT` · Flarum: `^1.8.0`
+**11** versions archived · Latest: [`v0.4.4`](https://github.com/flarchive/foskym-flarum-issue-tracking/tree/archive/v0.4.4) · License: `MIT` · Flarum: `^1.8.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2024-07-25 | `^1.8.0` | [Browse](https://github.com/flarchive/foskym-flarum-issue-tracking/tree/archive/v0.1.0) |
+| `v0.1.1` | 2024-07-25 | `^1.8.0` | [Browse](https://github.com/flarchive/foskym-flarum-issue-tracking/tree/archive/v0.1.1) |
+| `v0.1.2` | 2024-07-25 | `^1.8.0` | [Browse](https://github.com/flarchive/foskym-flarum-issue-tracking/tree/archive/v0.1.2) |
+| `v0.2.0` | 2024-07-25 | `^1.8.0` | [Browse](https://github.com/flarchive/foskym-flarum-issue-tracking/tree/archive/v0.2.0) |
+| `v0.3.0` | 2024-07-25 | `^1.8.0` | [Browse](https://github.com/flarchive/foskym-flarum-issue-tracking/tree/archive/v0.3.0) |
+| `v0.3.1` | 2024-07-26 | `^1.8.0` | [Browse](https://github.com/flarchive/foskym-flarum-issue-tracking/tree/archive/v0.3.1) |
+| `v0.4.0` | 2024-07-26 | `^1.8.0` | [Browse](https://github.com/flarchive/foskym-flarum-issue-tracking/tree/archive/v0.4.0) |
+| `v0.4.1` | 2024-07-26 | `^1.8.0` | [Browse](https://github.com/flarchive/foskym-flarum-issue-tracking/tree/archive/v0.4.1) |
+| `v0.4.2` | 2024-07-26 | `^1.8.0` | [Browse](https://github.com/flarchive/foskym-flarum-issue-tracking/tree/archive/v0.4.2) |
+| `v0.4.3` | 2024-08-14 | `^1.8.0` | [Browse](https://github.com/flarchive/foskym-flarum-issue-tracking/tree/archive/v0.4.3) |
+
+[View all 11 versions](https://github.com/flarchive/foskym-flarum-issue-tracking/tags)
 
 Catalog entry: [packages/foskym-flarum-issue-tracking.json](https://github.com/flarchive/archive-index/blob/main/packages/foskym-flarum-issue-tracking.json)
 
